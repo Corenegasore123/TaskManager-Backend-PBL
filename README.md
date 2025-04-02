@@ -38,7 +38,7 @@ JWT_EXPIRES_IN=24h
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Corenegasore123/TaskManager-Backend-PBL
 cd backend
 ```
 

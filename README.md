@@ -39,7 +39,6 @@ JWT_EXPIRES_IN=24h
 
 ```bash
 git clone https://github.com/Corenegasore123/TaskManager-Backend-PBL
-cd backend
 ```
 
 2. Install dependencies:
